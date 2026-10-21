@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (NEVER commit virtual environments)
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables, credentials & secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.token
+credentials.json
+api_keys.json
+
+# Jarvis / Dodaios runtime state, memory & databases
+data/
+memory/
+logs/
+*.log
+*.db
+*.db-shm
+*.db-wal
+jarvis.toml
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+.gemini/
+*.sublime-project
+*.sublime-workspace

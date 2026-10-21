@@ -1,0 +1,2 @@
+# Core Jarvis AI Assistant (Dodaios) with Windows desktop dependencies
+dodaios[desktop]==4.0.1
